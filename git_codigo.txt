@@ -1,1 +1,3 @@
 print("Hello, world!")
+if nova_linha:
+	print("nova linha carai")
